@@ -1,0 +1,14 @@
+Copyright (c) 2020 Narazaka
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose, except commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
+
+このソフトウェアは、"as-is (現状のまま)" で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます（著作者はバグを含めたあらゆる改修義務を負いません）。
+著作者は、それが利用されることによって起こりうるいかなる損害に対しても責任を負いません。
+商用利用でない場合にのみ、ソフトウェアの改変・配布は以下の制限のもとで許可されます。
+1. ソフトウェアの原著作者であると詐称してはなりません。（著作者の表示義務はありません）
+2. ソフトウェアを改変した場合はオリジナルのままだと勘違いされないようにしなければなりません。
+3. ライセンス表示をソフトウェアそのものの配布物（blendファイル・fbxファイル・unitypackageなど）から削除してはなりません。（ソフトウェアを利用した著作物に含める義務はありません）
