@@ -2,6 +2,10 @@
 
 SDK3(Udon)版同期NPC(AI)システム
 
+## こういうやつ
+
+![image](https://user-images.githubusercontent.com/1712548/152674381-0d8d95f6-42b3-4159-91d4-21045b6f9013.png)
+
 ## 必要アセット
 
 事前に以下のアセットを入れてください
