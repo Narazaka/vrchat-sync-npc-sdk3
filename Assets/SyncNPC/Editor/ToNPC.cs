@@ -24,7 +24,7 @@ namespace SyncNPC
             var obj = animator.gameObject;
             GetOrAddUdonSharpComponent<AICharacterControl>(obj);
             GetOrAddUdonSharpComponent<GetNPCOwner>(obj);
-            GetOrAddUdonSharpComponent<UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter>(obj);
+            GetOrAddUdonSharpComponent(obj, typeof(UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter));
 
             var us = obj.GetComponents<VRC.Udon.UdonBehaviour>();
             foreach (var u in us)
