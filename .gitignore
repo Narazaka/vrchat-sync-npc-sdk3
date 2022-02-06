@@ -99,3 +99,6 @@ crashlytics-build.properties
 /[Aa]ssets/CyanEmu.meta
 !/[Aa]ssets/CyanEmu/version.txt
 !/[Aa]ssets/CyanEmu/version.txt.meta
+
+/[Aa]ssets/Standard Assets/*
+/[Aa]ssets/Standard Assets.meta
