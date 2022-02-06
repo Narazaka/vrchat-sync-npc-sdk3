@@ -30,4 +30,5 @@ SDK3(Udon)版同期NPC(AI)システム
 
 ## License
 
-[Zlib License](LICENSE)
+- アセットの仕組み自体であるSyncNPCフォルダ内のものは[Zlib License](LICENSE)
+- サンプルとして使用しているアバター[AINA](https://narazaka.booth.pm/items/1319390)は同梱の[ライセンス](Assets/AINA-Quest/license.txt)を参照してください。商用利用でなければ基本ほぼ何も気にせず使ってかまいません。
