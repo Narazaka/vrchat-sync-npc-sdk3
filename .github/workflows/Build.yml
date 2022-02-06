@@ -32,6 +32,8 @@ jobs:
         run: |
           echo "Assets/SyncNPC.meta" >> metaList
           find Assets/SyncNPC/ -name \*.meta >> metaList
+          echo "Assets/AINA-Quest.meta" >> metaList
+          find Assets/AINA-Quest/ -name \*.meta >> metaList
       - run: mkdir package
 
       - name: Create unitypackage
